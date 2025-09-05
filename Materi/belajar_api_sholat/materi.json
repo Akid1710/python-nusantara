@@ -1,0 +1,20 @@
+{
+    "tittle": "Biodata Santri",
+    "total": 24 ,
+    "status_santri": true,
+    "status_lulus": false,
+    "pelajaran": ["MTK", "Arabic", "Indonesian", "IT"],
+
+    "surah":[
+        {
+          "No": 1,
+          "Nama": "Al-Fatihah",
+          "Ayat": 7,
+          "Turun": "Makkah"
+
+
+
+        
+        }
+    ]
+}
